@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amina</h1>
-<h3 align="center">   "I have not failed. I've just found 10,000 ways that won't work, yet!"</h3>
+<h3 align="center">  A lifelong learner </h3>
 
 - 🔭 I’m currently working on **React**
 
 - 📫 How to reach me **buhariaminat@yahoo.com**
 
-- ⚡ Fun fact **I laugh at my own jokes**
+- ⚡ Fun fact **"I have not failed. I've just found 10,000 ways that won't work, yet!"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
