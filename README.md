@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aminat Buhari</h1>
-<h3 align="center">A zealous programmer</h3>
+<h3 align="center">   "I have not failed. I've just found 10,000 ways that won't work, yet"</h3>
 
-- 🔭 I’m currently working on **Javascript**
+- 🔭 I’m currently working on **React**
 
 - 📫 How to reach me **buhariaminat@yahoo.com**
 
