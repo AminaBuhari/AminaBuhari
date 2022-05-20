@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **buhariaminat@yahoo.com**
 
-- ⚡ Fun fact **"I have not failed. I've just found 10,000 ways that won't work, yet!"**
+- ⚡ Fun fact **"Nothing is impossible "**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
