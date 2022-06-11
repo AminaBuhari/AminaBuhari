@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amina</h1>
 <h3 align="center">  A lifelong learner </h3>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **Ruby**
 
 - 📫 How to reach me **buhariaminat@yahoo.com**
 
-- ⚡ Fun fact **"Nothing is impossible "**
+- ⚡ Fun fact **"Every catastrophe is an oppurtunity "**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
