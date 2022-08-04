@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **buhariaminat@yahoo.com**
 
-- ⚡ Fun fact **"Every catastrophe is an oppurtunity "**
+- ⚡ The Only Truth **"Nothing Ever Remain The Same  "**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
