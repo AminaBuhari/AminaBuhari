@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **buhariaminat@yahoo.com**
 
-- ⚡ The Only Truth **"Nothing Ever Remain The Same  "**
+- ⚡ The Only Truth **"Nothing Ever Remains The Same  "**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
