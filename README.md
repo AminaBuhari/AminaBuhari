@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amina</h1>
 <h3 align="center">  A lifelong learner </h3>
 
-- 🔭 I’m currently working on **Ruby**
+- 🔭 I’m currently working on **NHS HEALTH DATASET USING MACHINE LEARNING**
 
 - 📫 How to reach me **buhariaminat@yahoo.com**
 
